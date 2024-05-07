@@ -8,7 +8,7 @@ from googletrans import Translator
 from rasa import model, interpreter
 from rasa.nlu.model import Interpreter
 
-from c import approval
+from other.c import approval
 
 
 # Load your trained Rasa model
