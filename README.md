@@ -1,17 +1,19 @@
                                           
 🔴 The login page:
-
-![ttv-login](https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/ed914a73-7651-4958-9286-c5da568b0c23)
+![ttv-login](https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/02020c0a-3588-49b9-a835-81c846f89041)
 
 🔴 The landing/main page
+![ttv-img](https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/e8157f74-ab08-4051-9bbf-4383e902dd81)
 
-![ttv-img](https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/dcf9b369-c85c-4cae-a21b-300d8d4337ce)
 
-🔴News example we got:
+🔴 News example we got:
 
 The Indian Veterinary Research Institute (IVRI) has successfully developed a vaccine to control the infectious bursal disease affecting poultry, offering hope to farmers facing significant losses.
 
 
 🔴The vid that model generated with images,voice and subtitles:
 
-https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/092d0605-3035-4be2-88cd-b36fa14e8439
+https://github.com/raunakmankapure/text-to-vid-for-PIB/assets/113294200/58044e65-d3ae-46c0-8b75-1b43feccb369
+
+
+
